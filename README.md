@@ -1,6 +1,20 @@
-# app2
+📱 BMI Calculator
+📌 Overview
+BMI Calculator is a simple and intuitive app that calculates Body Mass Index (BMI) based on height, weight, and age. It helps users determine whether they are in a healthy weight range.
 
-A new Flutter project.
+🎯 Features
+✔️ Accurate BMI Calculation based on user inputs.
+✔️ User-friendly UI with an elegant design.
+✔️ Gender selection (Male/Female).
+✔️ Height adjustment using a slider.
+✔️ Weight and Age control with increment/decrement buttons.
+✔️ Weight classification (Underweight, Normal, Overweight).
+✔️ Re-calculate button to easily reset and calculate again.
+
+🛠 Technologies Used
+Flutter (UI & Logic)
+Dart (Programming Language)
+Material Design (User Interface)
 
 ## Getting Started
 
