@@ -1,5 +1,8 @@
 📱 BMI Calculator
 
+![image](https://github.com/user-attachments/assets/46f32b62-7be1-481d-8595-ce0dbe149eee)
+![image](https://github.com/user-attachments/assets/3d0e3eaf-5d70-40ff-8a8b-0356f426ba60)
+
 📌 Overview
 BMI Calculator is a simple and intuitive app that calculates Body Mass Index (BMI) based on height, weight, and age. It helps users determine whether they are in a healthy weight range.
 
